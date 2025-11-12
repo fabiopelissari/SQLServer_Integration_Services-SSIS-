@@ -4,7 +4,7 @@ Inclui pacotes, templates e componentes reutilizáveis voltados para processos E
 
 🔍 Conteúdo<br>
    * Exemplos de fluxos de dados (Data Flow e Control Flow)<br>
-   * Scripts SQL e C# usados em tarefas personalizadas<br>
+   * Scripts SQL usados em tarefas personalizadas<br>
    * Modelos de logging e auditoria de execução<br>
    * Boas práticas para deploy e versionamento de pacotes<br>
 
